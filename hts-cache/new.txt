@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:13:16	1337/1337	---MCZ	404	error ('Not%20Found')	text/html	etag:1752229150-ssl-df	https://twapremium.netlify.app/robots.txt		(from )
+22:13:16	31050/31050	---MCZ	200	added ('OK')	text/html	etag:%223002290edc5a212b490d77b62cea2432-ssl-df%22	https://twapremium.netlify.app/	C:/My%20Web%20Sites/Future%20Signal/twapremium.netlify.app/index.html	(from )
+22:13:17	89220/89220	---M-Z	200	added ('OK')	text/css	etag:%22620188b3-468e%22	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css	C:/My%20Web%20Sites/Future%20Signal/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css	(from https://twapremium.netlify.app/)
+22:13:19	262248/262248	---M--	200	added ('OK')	image/png	date:Fri,%2011%20Jul%202025%2010:06:00%20GMT	https://i.ibb.co/N6rdJbbC/Gemini-Generated-Image-6p5xoz6p5xoz6p5x-Photoroom.png	C:/My%20Web%20Sites/Future%20Signal/i.ibb.co/N6rdJbbC/Gemini-Generated-Image-6p5xoz6p5xoz6p5x-Photoroom.png	(from https://twapremium.netlify.app/)
